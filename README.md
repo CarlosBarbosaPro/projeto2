@@ -1,6 +1,5 @@
 # projeto2
 
-# projetoObjeto
 
 ### Olá, eu sou Carlos Barbosa 👋
 
