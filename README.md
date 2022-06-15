@@ -6,7 +6,7 @@
 
 - 🔭  Eu desenvolvo Front-End
 - 🌱  Também posso trabalhar com Full stack e DBA 
-- 😄  Estudando Python
+- 😄  Estudando Angular
 
 <div align="center">
   <a href="https://github.com/CarlosBarbosaPro">
